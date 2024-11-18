@@ -7,7 +7,7 @@ body{
     align-items: center;
     justify-content: center;
     min-width: 100vh;
-    background: #ffff;
+    background: #ffff; 
     flex-direction: column;
 }
 .main{
